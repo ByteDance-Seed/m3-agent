@@ -35,7 +35,7 @@ def process_segment(
     clip_id,
     sample
 ):
-    save_path = sample["intermediate_outputs"]
+    save_path = sample["intermediate_path"]
     
     process_voices(
         video_graph,
