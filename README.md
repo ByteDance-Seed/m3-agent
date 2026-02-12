@@ -3,6 +3,7 @@
 </div>
 
 <h1 style="text-align: center;">Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory</h1>
+<h1 style="text-align: center;">ICLR 2026</h1>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.09736-b31b1b.svg)](https://arxiv.org/abs/2508.09736)
 [![Demo](https://img.shields.io/badge/homepage-M3--Agent-blue)](https://m3-agent.github.io)
